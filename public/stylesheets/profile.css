@@ -11,6 +11,13 @@ body {
     padding: 10px;
   }
   
+  .posts{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    align-items: start;
+  }
+
   .cardpers {
     background-color: #fff;
     border-radius: 5px;
