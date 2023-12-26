@@ -128,6 +128,14 @@ hr {
   cursor: pointer;
 }
 
+.error{
+  font-size: 14px;
+ font-weight: 500;
+ color: red;
+ text-transform: capitalize;
+ margin: 7px 0; 
+}
+
 /* Media Query for smaller screens */
 @media only screen and (max-width: 600px) {
   .container {
